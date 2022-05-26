@@ -1,0 +1,7 @@
+{
+  "nodemon": {
+    "execMap": {
+      "ts": "ts-node"
+    }
+  }
+}
